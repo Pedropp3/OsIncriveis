@@ -1,1 +1,1 @@
-print("pedro Penteado")
+print("Pedro Penteado")
